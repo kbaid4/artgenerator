@@ -1,0 +1,33 @@
+{
+  "price": 1.0,
+  "number": 3131,
+  "gatekeeper": null,
+  "creators": [
+    {
+      "address": "NLLqr3fPzhRbFruvL4fETdCxM9exUGVkJnrAzKrT2Vz",
+      "share": 100
+    }
+  ],
+  "solTreasuryAccount": "NLLqr3fPzhRbFruvL4fETdCxM9exUGVkJnrAzKrT2Vz",
+  "splTokenAccount": null,
+  "splToken": null,
+  "goLiveDate": "22 Dec 2022 20:00:00 +0100",
+  "endSettings": null,
+  "whitelistMintSettings": {
+    "mode": "burnEveryTime",
+    "mint": "NWLD43Xwsuekgu9ZF62MJfAo6TMTBTeA7YkUeCjf2vt",
+    "presale": true,
+    "discountPrice": 0.0
+  },
+  "hiddenSettings": null,
+  "freezeTime": null,
+  "uploadMethod": "bundlr",
+  "retainAuthority": true,
+  "isMutable": true,
+  "symbol": "NLL",
+  "sellerFeeBasisPoints": 1000,
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null
+}
